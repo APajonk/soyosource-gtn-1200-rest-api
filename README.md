@@ -1,2 +1,2 @@
-# soyosource-gtn-1200-rest-api
+# SoyoSource GTN 1200 REST API
 A versatile REST API for the SoyoSource GTN 1200 Micro Inverter
